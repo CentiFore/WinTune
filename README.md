@@ -1,7 +1,7 @@
 # 🛠️ WinTune Optimizer Pro
 
 A modern, open-source Windows optimization tool built with C# and WinForms.
-
+![WinTune](main.png)
 ## ✨ Features
 - **Privacy Protection:** Disables Windows ads, telemetry, and Copilot.
 - **Bloatware Cleaner:** Safely removes unnecessary built-in apps (Xbox, Skype, Maps, etc.).
